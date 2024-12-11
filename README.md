@@ -14,6 +14,13 @@ The project consists of two main folders:
 - Add, edit, delete, and filter tasks.
 - Task management with statuses (e.g., completed, pending).
 - Full-stack architecture with React and Node.js.
+
+## Screenshots
+
+Below are some screenshots showcasing the functionality and design of the Task Manager App:
+
+1. Home Page
+   ![1](https://github.com/user-attachments/assets/df9f92d4-52d1-46f7-9212-99cc7eb85550)
   
 ## Prerequisites
 
