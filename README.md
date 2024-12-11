@@ -19,9 +19,21 @@ The project consists of two main folders:
 
 Below are some screenshots showcasing the functionality and design of the Task Manager App:
 
-1. Home Page
+1. Home Page (Status - All)
    ![1](https://github.com/user-attachments/assets/df9f92d4-52d1-46f7-9212-99cc7eb85550)
-  
+
+2. Add Task
+   ![2](https://github.com/user-attachments/assets/2588ae1b-5af8-4ae5-9a94-21694b5c4166)
+
+3. Update Task
+   ![3](https://github.com/user-attachments/assets/950d4e25-7813-4d01-b6a6-5b2cd9725f18)
+
+4. Filter Status - Completed
+   ![4](https://github.com/user-attachments/assets/bbe4b2c7-b68f-4f06-8b98-7715ca764af0)
+
+5. Filter Status - Not Completed
+   ![5](https://github.com/user-attachments/assets/d299fac5-71fc-4bd8-aa8f-9c9493a10979)
+
 ## Prerequisites
 
 Before running the project, make sure you have the following installed on your machine:
