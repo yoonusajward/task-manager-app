@@ -1,6 +1,6 @@
 # Task Manager App
 
-This is a full-stack Task Manager application built with **React** for the frontend and **Node.js** (Express) for the backend. It allows users to manage their tasks efficiently by adding, editing, deleting, and filtering tasks.
+This is a full-stack Task Manager application built with **React** for the frontend, **Node.js** (Express) for the backend, and **MySQL** for the database. It allows users to manage their tasks efficiently by adding, editing, deleting, and filtering tasks.
 
 ## Project Structure
 
