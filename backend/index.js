@@ -79,7 +79,7 @@ app.get("/tasks/:id", (req, res) => {
       if (data.length === 0) {
         return res.status(404).json({ message: "Task not found" });
       }
-      return res.json(data[0]); // Send the task object
+      return res.json(data[0]);
     });
   });
 
